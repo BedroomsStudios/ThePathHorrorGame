@@ -4,7 +4,53 @@ timeCreated: 1474491052
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    100000: floor
+    100002: lamp
+    100004: Noose
+    100006: Noose_MeshPart0
+    100008: Noose_MeshPart1
+    100010: Noose_MeshPart2
+    100012: Noose_MeshPart3
+    100014: Noose_MeshPart4
+    100016: Noose_MeshPart5
+    100018: //RootNode
+    400000: floor
+    400002: lamp
+    400004: Noose
+    400006: Noose_MeshPart0
+    400008: Noose_MeshPart1
+    400010: Noose_MeshPart2
+    400012: Noose_MeshPart3
+    400014: Noose_MeshPart4
+    400016: Noose_MeshPart5
+    400018: //RootNode
+    2300000: floor
+    2300002: lamp
+    2300004: Noose_MeshPart0
+    2300006: Noose_MeshPart1
+    2300008: Noose_MeshPart2
+    2300010: Noose_MeshPart3
+    2300012: Noose_MeshPart4
+    2300014: Noose_MeshPart5
+    3300000: floor
+    3300002: lamp
+    3300004: Noose_MeshPart0
+    3300006: Noose_MeshPart1
+    3300008: Noose_MeshPart2
+    3300010: Noose_MeshPart3
+    3300012: Noose_MeshPart4
+    3300014: Noose_MeshPart5
+    4300000: lamp
+    4300002: floor
+    4300004: Noose_MeshPart0
+    4300006: Noose_MeshPart1
+    4300008: Noose_MeshPart2
+    4300010: Noose_MeshPart3
+    4300012: Noose_MeshPart4
+    4300014: Noose_MeshPart5
+    7400000: Default Take
+    9500000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
